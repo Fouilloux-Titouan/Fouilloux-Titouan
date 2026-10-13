@@ -46,4 +46,4 @@ Here is my ambitious annual roadmap for hands-on systems & security projects:
 ### 📫 Connect with Me
 
 - 📧 **Email:** `fouilloux.titouan@icloud.com`
-- 💼 **LinkedIn:** [linkedin.com/in/titouan-fouilloux](https://www.linkedin.com/in/titouan-fouilloux-in/)
+- 💼 **LinkedIn:** [linkedin.com/in/fouilloux-titouan](https://www.linkedin.com/in/fouilloux-titouan/)
