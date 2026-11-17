@@ -1,6 +1,6 @@
-# Hi there, I'm Titouan Fouilloux 👋
+# Hi there, I'm Titouan Fouilloux
 
-🎓 **Computer Engineering Student (1A) @ ENSEIRB-MATMECA**  
+🎓 **Computer Engineering Student (1A) at ENSEIRB-MATMECA**  
 🔐 **Cybersecurity & Systems Security Enthusiast**  
 📍 Bordeaux, France  
 
